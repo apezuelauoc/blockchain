@@ -1,12 +1,14 @@
-{
-    "name": "Superlopez",
-    "description": "Juan López debe compaginar el trabajo de oficina con heroicas hazañas",
-    "image": "https://es.wikipedia.org/wiki/Superl%C3%B3pez#/media/Archivo:Logo_Superlopez.svg",
-    "strength": 20
-}
-{
-    "name": "Mortadelo",
-    "description": "Mortadelo es un personaje creado por Francisco Ibáñez en 1958 para su serie Mortadelo y Filemón",
-    "image": "https://es.wikipedia.org/wiki/Mortadelo#/media/Archivo:Exhibition_cartoons_on_wheels,_with_Smart_&_Clever.JPG",
-    "strength": 20
-}
+{ "ComicC":[
+	{
+	"id":0
+    	"name": "Superlopez",
+    	"description": "Juan López debe compaginar el trabajo de oficina con heroicas hazañas",
+    	"image": "https://ctxt.es/images/cache/800x540/nocrop/images%7Ccms-image-000027150.jpeg"	
+	{
+	"id":1
+    	"name": "Mortadelo",
+    	"description": "Mortadelo es un personaje creado por Francisco Ibáñez en 1958 para su serie Mortadelo y Filemón",
+    	"image": "https://es.wikipedia.org/wiki/Mortadelo#/media/Archivo:Exhibition_cartoons_on_wheels,_with_Smart_&_Clever.JPG"
+	}
+]}
+
